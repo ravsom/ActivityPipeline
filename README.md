@@ -1,8 +1,6 @@
 ActivityPipeline
 ================
 
-For Venki
-
 Activity Pipeline is a demo android program to demonstrate how to call activities in pipeline. 
 
 There are 3 activities - A, B, and C
